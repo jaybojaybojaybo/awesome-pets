@@ -48,3 +48,17 @@ img {
   margin:0 auto;
   text-align: left;
 }
+
+.night-mode {
+  background-color: black;
+  color: white;
+}
+
+#normal-mode {
+  display: none;
+}
+
+.backdrop {
+  border: 5px solid darkblue;
+  background-color: skyblue;  
+}
